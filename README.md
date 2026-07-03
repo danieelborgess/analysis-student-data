@@ -1,6 +1,7 @@
 # 🎓 Raio-X do Desempenho Acadêmico
 
 > Projeto de Engenharia e Análise de Dados utilizando **Python, PostgreSQL, SQL e Streamlit** para identificar fatores associados ao desempenho acadêmico.
+> 🌐 **Acesse o dashboard:** [analysis-student.streamlit.app](https://analysis-student.streamlit.app)
 
 ## 📖 Sobre o Projeto
 
